@@ -990,6 +990,7 @@
     + [jIO](https://www.j-io.org/) is a client-side JavaScript library to manage documents across multiple storages.
     + [Lo-Dash](http://lodash.com/) - A low-level utility library delivering consistency, customization, performance, and extra features.
     + [Subtle Patterns](http://subtlepatterns.com/)
+    + [30+ Useful cheat sheets for web developers](http://creativenauts.me/2014/02/08/cheat-sheet-web-development-design/):  A list of various HTML, CSS, JS, jQuery, PHP, and CMS cheat sheets.
 
 
 ## License
